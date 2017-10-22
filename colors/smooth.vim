@@ -46,7 +46,7 @@ hi  FoldColumn      guifg=#192224  guibg=#555a61  guisp=NONE     gui=NONE
 hi  DiffAdd         guifg=#252a31  guibg=#3fb73f  guisp=NONE     gui=NONE
 hi  DiffChange      guifg=#252a31  guibg=#b7b734  guisp=NONE     gui=NONE
 hi  DiffDelete      guifg=#252a31  guibg=#b73f3f  guisp=NONE     gui=NONE
-hi  DiffText        guifg=#e1e4e2  guibg=NONE     guisp=#b7b734  gui=underline
+hi  DiffText        guifg=#e1e4e2  guibg=#1d1f21  guisp=#b7b734  gui=underline
 hi  SignColumn      guifg=#192224  guibg=NONE     guisp=NONE     gui=NONE
 "hi  Conceal         guifg=#192224  guibg=NONE     guisp=NONE     gui=NONE
 hi  SpellBad        guifg=#F9F9FF  guibg=NONE     guisp=#192224  gui=undercurl
