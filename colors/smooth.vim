@@ -3,7 +3,7 @@
 
 " Name: Smooth colorscheme
 " Author: Tristan Šneider
-" URL: http://github.com/tristaan/vim-smooth
+" URL: http://github.com/tristaan/vim-nocturne
 
 set background=dark
 if version > 580
