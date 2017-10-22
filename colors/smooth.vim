@@ -31,7 +31,9 @@ hi  Search          guifg=#252a31  guibg=#b7b734  guisp=NONE     gui=NONE
 hi  MoreMsg         guifg=#b7b734  guibg=NONE     guisp=NONE     gui=bold
 hi  ModeMsg         guifg=#c1c4c2  guibg=NONE     guisp=NONE     gui=bold
 hi  LineNr          guifg=#555a61  guibg=NONE     guisp=NONE     gui=NONE
-hi  CursorLineNr    guifg=#b7b734  guibg=NONE     guisp=NONE     gui=bold
+hi  CursorLineNr    guifg=#b7b734  guibg=#252a31     guisp=NONE     gui=bold
+hi  CursorLine      guifg=NONE     guibg=#252a31  guisp=NONE     gui=NONE
+hi  CursorColumn    guifg=NONE     guibg=#252a31  guisp=NONE     gui=NONE
 hi  Question        guifg=#3fb73f  guibg=NONE     guisp=NONE     gui=NONE
 hi  StatusLine      guifg=#c1c2c4  guibg=#252a31  guisp=NONE     gui=bold
 hi  StatusLineNC    guifg=#555a61  guibg=#252a31  guisp=NONE     gui=bold
@@ -60,8 +62,6 @@ hi  PMenuThumb      guifg=#c1c4c2  guibg=#555a61  guisp=#555a61  gui=NONE
 hi  TabLine         guifg=#555a61  guibg=#252a31  guisp=#252a31  gui=bold
 "hi  TabLineSel      guifg=#252a31  guibg=#f77f7f  guisp=#f77f7f  gui=bold
 hi  TabLineFill     guifg=#c1c4c2  guibg=#252a31  guisp=#252a31  gui=bold
-hi  CursorLine      guifg=NONE     guibg=#252a31  guisp=NONE     gui=NONE
-hi  CursorColumn    guifg=NONE     guibg=#252a31  guisp=NONE     gui=NONE
 
 "Syntax highlighting groups
 "--------------------------
