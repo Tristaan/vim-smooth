@@ -31,7 +31,7 @@ hi  Search          guifg=#252a31  guibg=#b7b734  guisp=NONE     gui=NONE
 hi  MoreMsg         guifg=#b7b734  guibg=NONE     guisp=NONE     gui=bold
 hi  ModeMsg         guifg=#c1c4c2  guibg=NONE     guisp=NONE     gui=bold
 hi  LineNr          guifg=#555a61  guibg=NONE     guisp=NONE     gui=NONE
-hi  CursorLineNr    guifg=#b7b734  guibg=#252a31     guisp=NONE     gui=bold
+hi  CursorLineNr    guifg=#b7b734  guibg=#252a31  guisp=NONE     gui=bold
 hi  CursorLine      guifg=NONE     guibg=#252a31  guisp=NONE     gui=NONE
 hi  CursorColumn    guifg=NONE     guibg=#252a31  guisp=NONE     gui=NONE
 hi  Question        guifg=#3fb73f  guibg=NONE     guisp=NONE     gui=NONE
@@ -42,7 +42,7 @@ hi  Title           guifg=NONE     guibg=NONE     guisp=NONE     gui=bold
 hi  Visual          guifg=#1d1f21  guibg=#d1d4d2  guisp=NONE     gui=NONE
 "hi  VisualNOS       guifg=#192224  guibg=#F9F9FF  guisp=#F9F9FF  gui=underline
 hi  WarningMsg      guifg=#252a31  guibg=#b7643f  guisp=NONE     gui=NONE
-hi  WildMenu        guifg=NONE     guibg=#252a31  guisp=NONE     gui=bold
+hi  WildMenu        guifg=#252a31  guibg=#c1c2c4  guisp=NONE     gui=bold
 hi  Folded          guifg=#192224  guibg=#555a61  guisp=NONE     gui=NONE
 hi  FoldColumn      guifg=#192224  guibg=#555a61  guisp=NONE     gui=NONE
 hi  DiffAdd         guifg=#252a31  guibg=#3fb73f  guisp=NONE     gui=NONE
